@@ -3,9 +3,9 @@
 	"id": "no-beehive-spawn",
 	"version": "${version}",
 	"name": "No Beehive Spawn",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Simply disables natural beehive spawning on trees",
 	"authors": [
-		"Me!"
+		"StJobertus"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
